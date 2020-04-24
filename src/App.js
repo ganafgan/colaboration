@@ -15,6 +15,7 @@ function App() {
       <h3>ini h34</h3>
       <h3>ini h34</h3>
       <h3>ini h34</h3>
+      <h2>CEK CEK</h2>
     </div>
   );
 }
